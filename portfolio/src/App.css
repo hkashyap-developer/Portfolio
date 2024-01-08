@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: figtree; 
+  src: url(../public/fonts/Figtree-VariableFont_wght.ttf); 
+}
+.figtree{
+  font-family:figtree; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
